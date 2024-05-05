@@ -1,0 +1,3 @@
+([('CArchiver',
+   '/Users/jack/PycharmProjects/CArchiver/dist/CArchiver',
+   'EXECUTABLE')],)
